@@ -1,0 +1,13 @@
+body{
+  background-color: gold;
+}
+
+#myMenu{
+  background-color: red;
+  color: white;
+}
+
+#myMenu a{
+  color: yellow;
+  text-decoration: none;
+}
